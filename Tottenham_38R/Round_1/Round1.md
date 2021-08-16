@@ -4,4 +4,4 @@
 - referee - A.Taylor
 - Kick off : 16:30(현지시각)
 - Date : JPL, 15-ago-21
-- MOM : R.Moura
+- MOM : L.Moura
