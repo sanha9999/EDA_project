@@ -1,4 +1,4 @@
-# Round 1
+# Round 2
 # Tottenham 1 : 0 Wolves
 - Molineux Stadium
 - referee - S. Attwell
