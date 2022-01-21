@@ -1,0 +1,26 @@
+number,name,position,age,nation,team,value
+1,Kylian Mbappé,Centre-Forward,23,France,Paris Saint-Germain,€160.00m
+2,Erling Haaland,Centre-Forward,21,Norway,Borussia Dortmund,€150.00m
+3,Vinicius Junior,Left Winger,21,Brazil,Real Madrid,€100.00m
+4,Mohamed Salah,Right Winger,29,Egypt,Liverpool FC,€100.00m
+5,Harry Kane,Centre-Forward,28,England,Tottenham Hotspur,€100.00m
+6,Romelu Lukaku,Centre-Forward,28,Belgium,Chelsea FC,€100.00m
+7,Bruno Fernandes,Attacking Midfield,27,Portugal,Manchester United,€90.00m
+8,Kevin De Bruyne,Attacking Midfield,30,Belgium,Manchester City,€90.00m
+9,Neymar,Left Winger,29,Brazil,Paris Saint-Germain,€90.00m
+10,Phil Foden,Central Midfield,21,England,Manchester City,€85.00m
+11,Jadon Sancho,Left Winger,21,England,Manchester United,€85.00m
+12,Marcus Rashford,Left Winger,24,England,Manchester United,€85.00m
+13,Joshua Kimmich,Defensive Midfield,26,Germany,Bayern Munich,€85.00m
+14,Raheem Sterling,Left Winger,27,England,Manchester City,€85.00m
+15,Pedri,Central Midfield,19,Spain,FC Barcelona,€80.00m
+16,Lautaro Martínez,Centre-Forward,24,Argentina,Inter Milan,€80.00m
+17,Trent Alexander-Arnold,Right-Back,23,England,Liverpool FC,€80.00m
+18,Jack Grealish,Left Winger,26,England,Manchester City,€80.00m
+19,Sadio Mané,Left Winger,29,Senegal,Liverpool FC,€80.00m
+20,Heung-min Son,Left Winger,29,"Korea, South",Tottenham Hotspur,€80.00m
+21,Jude Bellingham,Central Midfield,18,England,Borussia Dortmund,€75.00m
+22,Declan Rice,Defensive Midfield,23,England,West Ham United,€75.00m
+23,Mason Mount,Attacking Midfield,23,England,Chelsea FC,€75.00m
+24,Rúben Dias,Centre-Back,24,Portugal,Manchester City,€75.00m
+25,Bernardo Silva,Attacking Midfield,27,Portugal,Manchester City,€75.00m
