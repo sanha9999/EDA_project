@@ -9,6 +9,7 @@
 
 | Columns name | Description |
 |:---:|:---:|
+|ID|whoscored.com player id|
 |Player|Player name|
 |Rating|선수 개인의 평점|
 |Goal|Goal|
