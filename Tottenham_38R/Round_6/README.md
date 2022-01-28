@@ -1,5 +1,5 @@
 # Round 6
-# Tottenham 3 : 1 Arsenal
+# Tottenham 1 : 3 Arsenal
 - Emirates Stadium
 - referee - C. Pawson
 - Kick off : 16:30(현지시각)
