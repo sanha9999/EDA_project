@@ -1,6 +1,6 @@
 # Round 32
 # Tottenham 4 : 1 Aston Villa
-- Tottenham Hotspur Stadium
+- Villa Park
 - referee - G. Scott
 - Kick off : 17:30(현지시각)
 - Date : 09-Apr-22
